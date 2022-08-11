@@ -9,6 +9,6 @@ int main(){
 			printf("*");
 		printf("\n");
 	}
-
+	printf("时间会告诉我一切");
 	return 0;
 }
